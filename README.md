@@ -8,6 +8,7 @@
     <h1>BTS SIO</h1>
     <h2>Option SLAM – Solutions Logicielles et Applications Métiers</h2>
 </header>
+<a href="https://github.com/edwin-Atride">Edwin-ATride</a>
 
 <section>
     <h2>Présentation du BTS SIO</h2>
